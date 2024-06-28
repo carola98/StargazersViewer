@@ -14,7 +14,7 @@ Node.js
 
 ######################################################################
 
-Clone the repository: git clone https://github.com/carola98/stargazers-viewer.git
+Clone the repository: git clone https://github.com/carola98/StargazersViewer.git
 
 ######################################################################
 
