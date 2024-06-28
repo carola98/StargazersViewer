@@ -1,0 +1,12 @@
+{
+    "translation": {
+      "stargazersViewer": "Stargazers Viewer",
+      "noStargazers": "No one has starred the GitHub repository.",
+      "discoverMessage": "Discover who starred the repository.",
+      "ownerPlaceholder": "Owner",
+      "repositoryPlaceholder": "Repository",
+      "getStargazersButton": "Get Stargazers",
+      "invalidInputError": "Invalid input. Please try again."
+    }
+  }
+  

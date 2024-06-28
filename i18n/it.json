@@ -1,0 +1,13 @@
+{
+    "translation": {
+      "stargazersViewer": "StargazersViewer",
+      "noStargazers": "Nessuno ha aggiunto una stella al repository GitHub.",
+      "discoverMessage": "Scopri chi ha messo una stella al repository.",
+      "ownerPlaceholder": "Proprietario",
+      "repositoryPlaceholder": "Repository",
+      "getStargazersButton": "Cerca",
+      "invalidInputError": "I dati inseriti non sono. Prova a inserirli dinuovo."
+
+    }
+  }
+  

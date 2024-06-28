@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "hermesEnabled": true, 
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
