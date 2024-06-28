@@ -16,13 +16,16 @@ Node.js
 
 Clone the repository: git clone https://github.com/carola98/StargazersViewer.git
 
+or click on <> Code and download ZIP
+
 ######################################################################
 
 ## Steps
 
 Navigate into the project directory: 
 
-** cd StargazersViewer-main **
+if you clone directory ** cd StargazersViewer **
+if you download ZIP ** cd StargazersViewer-main **
 
 ** Install dependencies: npm install **
 
