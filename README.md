@@ -22,7 +22,7 @@ Clone the repository: git clone https://github.com/carola98/StargazersViewer.git
 
 Navigate into the project directory: 
 
-** cd StargazersViewer **
+** cd StargazersViewer-main **
 
 ** Install dependencies: npm install **
 
